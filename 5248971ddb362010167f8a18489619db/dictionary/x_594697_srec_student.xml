@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Student" max_length="40" name="x_594697_srec_student" sizeclass="2" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Date Of Birth" max_length="40" name="date_of_birth" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Name " max_length="40" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Phone no" max_length="40" name="phone_no" type="phone_number_e164"/>
+        <element label="Roll No" max_length="40" name="roll_no" type="integer"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>
