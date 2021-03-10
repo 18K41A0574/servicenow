@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Student574" language="en" table="x_594697_srec_student574">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Student574</label>
+            <language>en</language>
+            <name>x_594697_srec_student574</name>
+            <plural>Student574s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-10 06:34:06</sys_created_on>
+            <sys_id>2c0ef761db722010167f8a184896191d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Student574</sys_name>
+            <sys_package display_value="SREC" source="x_594697_srec">5248971ddb362010167f8a18489619db</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SREC">5248971ddb362010167f8a18489619db</sys_scope>
+            <sys_update_name>sys_documentation_x_594697_srec_student574__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-10 06:34:06</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
